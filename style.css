@@ -74,16 +74,20 @@ main .content p  {
 	color: #bc0000;
 	font-family: 'Libre Baskerville', serif;
 	font-weight: 700;
-	font-size: 14.5pt;
+	font-size: 14.5px;
 	text-align: center;
 	line-height: 1.1;
 	margin-bottom:20px;
 	min-width: 620px;
+
 }
+
+
+
 
 .special_offer p {
 	 
-	font-size: 15pt;
+	font-size: 15px;
 	line-height: 1.5;
 	margin: 0 auto;
 	text-align: justify;
